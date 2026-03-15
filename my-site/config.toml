@@ -1,0 +1,8 @@
+baseURL = "https://irina-portfolio-site.pages.dev/"
+languageCode = "zh-CN"
+title = "Irina Jiang"
+theme = "PaperMod"
+
+[params]
+  description = "在日常中撷取值得纪念的贝壳, The world is my oyster."
+  author = "Irina Jiang"
